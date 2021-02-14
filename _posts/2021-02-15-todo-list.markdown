@@ -1,9 +1,11 @@
 ---
-title: ":ramen: Indigo, minimalist jekyll theme"
+title: "📝 To-do List (Momentum Clone Coding)"
 layout: post
-date: 2016-01-23 22:10
-tag: jekyll
-image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
+date: 2021-02-15 00:49
+tag: 
+- JavaScript
+- Clone Coding
+image: https://github.com/sue-bin/data_visulization_study/blob/main/chrome%20app/images/header.png?raw=true
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
@@ -13,7 +15,7 @@ author: johndoe
 externalLink: false
 ---
 
-![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
+![Screenshot](https://github.com/sue-bin/data_visulization_study/blob/main/chrome%20app/images/before_sepia.png?raw=true)
 
 Example of project - Indigo Minimalist Jekyll Template - [Demo](https://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
 
