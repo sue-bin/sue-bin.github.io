@@ -20,4 +20,4 @@ externalLink: false
 
 크롬 어플리케이션 중 하나인 Momentum을 클론코딩해보았습니다.
 
-#### 보러가기! [CROME APP](https://sue-bin.github.io/chrome-app/)
+#### 보러가기! [CROME APP](https://sue-bin.github.io/chrome-app)
